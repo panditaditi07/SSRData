@@ -1,0 +1,44 @@
+[
+    {
+        "csLogo": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt8dc4dd93cd29ae05/5f1a2be13986577a2d5f6736/Contentstack-full-logo-white_800x133.png",
+        "navLinks": [
+            "Product",
+            "Resources",
+            "Customers",
+            "Partners",
+            "Company",
+            "REQUEST DEMO"
+        ],
+        "title": "Finally, A Modern Content Management System",
+        "subtitle": "Contentstack brings business and technology teams together to deliver personalized, omnichannel digital experiences."
+    },
+    {
+        "whyChooseCS": [
+            {
+                "heading": "Idea-to-Deployment in Record Time",
+                "subHeading": "Accelerate the delivery of digital content, sites, and apps to bring new experiences to life in days, not months, with a modern CMS."
+            },
+            {
+                "heading": "Improve ROI and ‘Return on Experience’",
+                "subHeading": "Reap greater returns on investments – both past and future – in digital content and digital experiences."
+            },
+            {
+                "heading": "Better Collaboration, Better Control",
+                "subHeading": "Bring business and technology teams into harmony with our headless CMS, and unleash the full potential of your marketers, editors, designers, and developers."
+            }
+        ],
+        "recommendCs": {
+            "blogImage": "https://www.contentstack.com/blog/all-about-headless/10-tips-on-content-management-systems-cms/",
+            "blogHeading": "10-Tips- How to Choose Right Content Management System",
+            "subheading": "Read these comphrensive tips to guide in your CMS research"
+        },
+        "bottomBanner": {
+            "title": "TRY IT TO BELIEVE IT",
+            "imageUrl": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blta8ec620b53524f45/5f1a2bd31db8ad781814787d/download.jpg"
+        },
+        "footer": [
+            "Terms",
+            "Policy"
+        ]
+    }
+]
