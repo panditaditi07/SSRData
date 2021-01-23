@@ -33,7 +33,7 @@
                 "intro": "iRobokid is an educational organisation specialising in STEM Education through Robotics, Coding, 3D printing, Electrics and Electronics."
             }
         ],
-        "Team": [
+        "team": [
             {
                 "image": "https://images.contentstack.io/v3/assets/blt137524604e62b5cb/blte47f673f3761153a/5edf71fce92db173fb37dd46/NehaSampat_1@2x.png?auto=webp&quality=100&format=pjpg",
                 "name": "Neha Sampat",
